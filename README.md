@@ -1,16 +1,26 @@
 # todo
 
-A new Flutter project.
+## 🚀 Sobre o projeto
 
-## Getting Started
+Projeto desenvolvido para aprender sobre os conceitos do flutter
 
-This project is a starting point for a Flutter application.
+## 🖥️ Tecnologias usadadas
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- hive flutter (banco de dados)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Executando Projeto
+
+```
+
+# Baixe o repositório com git clone e entre na pasta do projeto.
+$ https://github.com/mauriani/github-blog.git
+
+# Execute yarn para instalar as dependências (ou npm install)
+$ yarn
+
+# start project
+$ yarn dev
+```

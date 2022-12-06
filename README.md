@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre o projeto
 
-Projeto desenvolvido para aprender sobre os conceitos do flutter
+Projeto desenvolvido para aprender sobre os conceitos do flutter.
 
 ## 🖥️ Tecnologias usadadas
 

@@ -1,5 +1,7 @@
 # todo
 
+<img src="(https://user-images.githubusercontent.com/32397288/205931237-1051ade3-3cd8-47c5-83d4-750010a93ca6.png">
+
 ## 🚀 Sobre o projeto
 
 Projeto desenvolvido para aprender sobre os conceitos do flutter

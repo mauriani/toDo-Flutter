@@ -16,11 +16,9 @@ Projeto desenvolvido para aprender sobre os conceitos do flutter
 ```
 
 # Baixe o repositório com git clone e entre na pasta do projeto.
-$ https://github.com/mauriani/github-blog.git
-
-# Execute yarn para instalar as dependências (ou npm install)
-$ yarn
+$ https://github.com/mauriani/toDo-Flutter.git
 
 # start project
-$ yarn dev
+$ cd toDo-Flutter
+$flutter run
 ```

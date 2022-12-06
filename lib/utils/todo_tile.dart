@@ -6,7 +6,7 @@ class ToDoTite extends StatelessWidget {
   final bool taskCompleted;
   Function(bool?)? onChanged;
 
-  Function()? deleteFunction;
+  Function(BuildContext)? deleteFunction;
 
   ToDoTite(
       {super.key,
@@ -26,7 +26,8 @@ class ToDoTite extends StatelessWidget {
             SlidableAction(
                 onPressed: deleteFunction,
                 icon: Icons.delete,
-                backgroundColor: Colors.red.shade300)
+                backgroundColor: Colors.red.shade300,
+                borderRadius: BorderRadius.circular(12))
           ],
         ),
         child: Container(
